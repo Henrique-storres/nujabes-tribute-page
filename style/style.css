@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 10px;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    margin: 0;
+}
+
+a{
+    color: #9c1200;
+}
+
+h1{
+    font-size: 4rem;
+    text-align: center;
+}
+
+h2{
+    font-size: 3.25rem;
+    text-align: center;
+}
+
+#sub-title{
+    text-align: center;
+}
+
+#main{
+    background: #eee;
+    width: 100%;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-div{
+    background: white;
+    padding: 0px;
+    margin-top: 2em;
+}
+
+#tribute-info{
+    background: #9c1200;
+    color: white;
+    text-align: justify;
+    padding: 3em;
+}
+
+#tribute-albums{
+    padding: 3em;
+}

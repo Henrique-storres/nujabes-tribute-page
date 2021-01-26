@@ -45,9 +45,11 @@ img{
 }
 
 #img-div{
-    background: white;
+    background:  #9c1200;
     padding: 0px;
     margin-top: 2em;
+    color: white;
+    text-align: center;
 }
 
 #tribute-info{
